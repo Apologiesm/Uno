@@ -9,10 +9,10 @@
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by Akib!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## DISCORD :  https://discord.gg/NNcmnwPzMp                   ║
+║  ## YouTube : https://www.youtube.com/@akibislam1930                        ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
